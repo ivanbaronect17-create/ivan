@@ -1,0 +1,4 @@
+title: "Ivan Barone"
+description: "Psicologia, filosofia e comportamento umano"
+markdown: kramdown
+permalink: /:title/
